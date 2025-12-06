@@ -9,6 +9,8 @@
 <body>
 
     <h1>Welcome to SugarCane Factory</h1>
+        <h1>Thank you </h1>
+    
 
 </body>
 </html>
